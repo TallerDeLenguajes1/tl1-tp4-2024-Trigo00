@@ -125,7 +125,7 @@ int main(){
 
     } while (opcion != 7);
 
-
+    free(buscarPalabra);
    
     return 0;
 }
